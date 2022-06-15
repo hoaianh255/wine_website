@@ -1,0 +1,20 @@
+<?php
+return [
+  "your_cart"=> "Your cart",
+  "products"=>"Products",
+  "price"=>"Price",
+  "quantity"=>"Quantity",
+  "remove"=>"Remove",
+  "coupon_code"=>"Coupon Code",
+  "order_summary"=>"Order Summary",
+  "apply_coupon_code"=>"Apply coupon",
+  "processed_checkout_amount"=>"Processed Checkout",
+  "subtotal"=>"Subtotal",
+  "tax"=>"Tax",
+  "total"=>"Total",
+  "if_you_have_a_coupon_code,_please_enter_it_in_the_box_below"=>"If you have a coupon code, please enter it in the box below",
+  "shipping_and_additional_costs_are_calculated_based_on_values_you_have_entered"=>"Shipping and additional costs are calculated based on values you have entered.",
+  "discount"=>"Discount",
+  "new_subtotal"=>"New subtotal",
+  "new_tax"=>"New tax",
+];
